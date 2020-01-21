@@ -1,5 +1,5 @@
 {
-    "name": "mousetesting",
+    "name": "gametest",
     "description": "",
     "dependencies": {
         "device": "*",
